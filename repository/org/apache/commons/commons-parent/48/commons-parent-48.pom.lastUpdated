@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jul 29 15:06:05 JST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1596002765538
+https\://maven.mangoautomation.net/repository/ias-release/.error=Could not transfer artifact org.apache.commons\:commons-parent\:pom\:48 from/to ias-releases (https\://maven.mangoautomation.net/repository/ias-release/)\: maven.mangoautomation.net
+@default-ias-releases-https\://maven.mangoautomation.net/repository/ias-release/.lastUpdated=1596002763477

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jul 29 15:05:59 JST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1596002759847
+https\://maven.mangoautomation.net/repository/ias-release/.error=Could not transfer artifact com.intelligt.modbus\:jlibmodbus\:pom\:1.2.9.7 from/to ias-releases (https\://maven.mangoautomation.net/repository/ias-release/)\: No such host is known (maven.mangoautomation.net)
+@default-ias-releases-https\://maven.mangoautomation.net/repository/ias-release/.lastUpdated=1596002755325

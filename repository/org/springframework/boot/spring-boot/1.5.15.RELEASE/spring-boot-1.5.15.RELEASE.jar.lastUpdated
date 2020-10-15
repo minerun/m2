@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 22 09:58:40 JST 2020
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1595379510609
+https\://repo.spring.io/milestone/.lastUpdated=1595379520689
+https\://repo.spring.io/ext-release-local/.error=
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot\:jar\:1.5.15.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
+https\://repo.spring.io/ext-release-local/.lastUpdated=1595379516387
