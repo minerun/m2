@@ -1,4 +1,6 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Oct 17 16:05:03 JST 2019
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 11 23:52:45 JST 2019
+commons-logging-api-1.1.pom>nexus-aliyun=
+commons-logging-api-1.1.jar>nexus-aliyun=
 commons-logging-api-1.1.jar>central=
 commons-logging-api-1.1.pom>central=
