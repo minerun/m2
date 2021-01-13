@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-linear-gradient</artifactId>
-  <version>2.5.6-jitsi-6426514</version>
+  <version>2.5.6-jitsi-6426532</version>
   <packaging>aar</packaging>
   <name>react-native-linear-gradient</name>
   <description>A &lt;LinearGradient&gt; element for React Native</description>

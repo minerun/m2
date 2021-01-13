@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-immersive</artifactId>
-  <version>2.0.0-jitsi-6426512</version>
+  <version>2.0.0-jitsi-6426532</version>
   <packaging>aar</packaging>
   <name>react-native-immersive</name>
   <description>Add Toggle for Android Immersive FullScreen Layout</description>

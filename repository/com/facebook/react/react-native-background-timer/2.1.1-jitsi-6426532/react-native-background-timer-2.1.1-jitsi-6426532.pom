@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-background-timer</artifactId>
-  <version>2.1.1-jitsi-6426560</version>
+  <version>2.1.1-jitsi-6426532</version>
   <packaging>aar</packaging>
   <name>react-native-background-timer</name>
   <description>Emit event periodically (even when app is in the background)</description>

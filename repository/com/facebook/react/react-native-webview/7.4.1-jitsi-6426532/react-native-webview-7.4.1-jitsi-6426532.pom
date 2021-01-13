@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-webview</artifactId>
-  <version>7.4.1-jitsi-6426520</version>
+  <version>7.4.1-jitsi-6426532</version>
   <packaging>aar</packaging>
   <name>react-native-webview</name>
   <description>React Native WebView component for iOS, Android, and Windows 10 (coming soon)</description>
